@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-TASK__6/static/css/main.33a369dd.css",
+    "main.js": "/React-TASK__6/static/js/main.decc737f.js",
+    "static/js/787.0b96ccdf.chunk.js": "/React-TASK__6/static/js/787.0b96ccdf.chunk.js",
+    "static/media/work3.png": "/React-TASK__6/static/media/work3.05baeeebfa96042411fc.png",
+    "static/media/Profile.jpeg": "/React-TASK__6/static/media/Profile.ca5a526aa001c9fa8271.jpeg",
+    "static/media/about.jpeg": "/React-TASK__6/static/media/about.705b895c4392063ce2e7.jpeg",
+    "static/media/RamaResume.pdf": "/React-TASK__6/static/media/RamaResume.fb71ed8cdb16cbf1b912.pdf",
+    "static/media/work1.png": "/React-TASK__6/static/media/work1.d9d65edb738600116c4e.png",
+    "static/media/work2.png": "/React-TASK__6/static/media/work2.ef60e921c276080f3764.png",
+    "index.html": "/React-TASK__6/index.html",
+    "main.33a369dd.css.map": "/React-TASK__6/static/css/main.33a369dd.css.map",
+    "main.decc737f.js.map": "/React-TASK__6/static/js/main.decc737f.js.map",
+    "787.0b96ccdf.chunk.js.map": "/React-TASK__6/static/js/787.0b96ccdf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33a369dd.css",
+    "static/js/main.decc737f.js"
+  ]
+}
